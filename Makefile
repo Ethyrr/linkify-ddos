@@ -1,7 +1,7 @@
 .PHONY: install uninstall
 
 all:
-	@echo "Nothing to compile. Use 'make install' to install (D)Dos Deflate."
+	@echo "Nothing to compile. Use 'make install' to install."
 
 install:
 	./install.sh
