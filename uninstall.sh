@@ -2,7 +2,7 @@
 
 clear
 
-echo "Uninstalling DOS-Deflate"
+echo "Uninstalling"
 
 if [ -e '/etc/init.d/ddos' ]; then
     echo; echo -n "Deleting init service..."
